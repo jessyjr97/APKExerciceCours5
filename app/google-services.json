@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "619101896041-tk0becq5scht0vf44jkt0utnbrphr66o.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.exeinformatique.cours5",
-            "certificate_hash": "1ef7de456d3e24367b83c2ffa1058bb494c71e6c"
-          }
-        },
-        {
           "client_id": "619101896041-4ft4knj013rcusb3tiqslc8ovfv0m3fj.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "619101896041-4ft4knj013rcusb3tiqslc8ovfv0m3fj.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
